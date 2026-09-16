@@ -26,3 +26,7 @@ Official guide: https://docs.github.com/en/pages/getting-started-with-github-pag
 Navigation uses relative paths, so it works both at a domain root and under a GitHub repository path. Fonts are requested from Google Fonts, with system-font fallbacks.
 
 To update the site, edit or replace files in the publishing branch. The asset files include the resume exactly as provided.
+
+## Updating an existing upload
+
+Replace `index.html`, `about.html`, and `style.css` with these versions. Existing images and PDFs are unchanged. Keep your existing `CNAME` file if you use a custom domain. This update adds project takeaways and a planned FPGA physics simulator.
